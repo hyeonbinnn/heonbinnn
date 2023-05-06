@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hello!%20hyeonbin's%20GitHub&fontSize=40&fontAlignY=45&animation=twinkling&desc=Junior%20Frontend%20Developer&descSize=20&descAlignY=65)
-
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Hello!%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
-<br>
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=hyeonbin's%20GitHub&fontSize=40&fontAlignY=45&animation=twinkling&desc=Junior%20Frontend%20Developer&descSize=20&descAlignY=65)
 
 <p align='center'>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -9,7 +6,7 @@
   
 <br><br>
   
-<h2 align=center> Tech Stack </h2>  
+<h2 align=center> 👩🏻‍💻Tech Stack </h2>  
 <table align="center">
   <tr height="50px">
     <th>Frontend</th>
