@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Hello!%20hyeonbin's%20GitHub&fontSize=35&fontAlignY=30&animation=twinkling&desc=Junior%20Frontend%20Developer&descSize=20&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
 <br>
 
@@ -54,8 +54,3 @@
 
 </td></tr></table>  
 
-<br>
-
-<br>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=gradient&height=150)
