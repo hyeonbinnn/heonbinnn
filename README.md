@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
-
-<br>
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Hello!%20hyeonbin's%20GitHub&fontSize=35&fontAlignY=30&animation=twinkling&desc=Junior%20Frontend%20Developer&descSize=20&descAlignY=50)
 
 <h3 align=center> 👩🏻‍💻Follow Me </h3><br>
 <p align=center>
@@ -54,3 +52,4 @@
 
 </td></tr></table>  
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=fadeIn&section=footer&text=👩🏻‍💻&fontAlign=90&fontsize=10&animation=twinkling)
