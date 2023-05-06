@@ -2,18 +2,14 @@
 
 <br>
 
-<p align='center'>
+<h3 align=center> 👩🏻‍💻Follow Me </h3><br>
+<p align=center>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://velog.io/@hyeonbinnn"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-  
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonbinnn&layout=compact)](https://github.com/hyeonbinnn/github-readme-stats)
-
 
 <br><br>
   
-<h2 align=center> 👩🏻‍💻Tech Stack </h2>  
+<h3 align=center> 👩🏻‍💻Tech Stack </h3><br>
 <table align="center">
   <tr height="50px">
     <th>Frontend</th>
@@ -57,3 +53,9 @@
 </div>
 
 </td></tr></table>  
+
+<br>
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=gradient&height=150)
