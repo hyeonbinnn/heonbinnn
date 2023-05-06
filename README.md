@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Hello!%20hyeonbin's%20GitHub&fontSize=35&fontAlignY=30&animation=twinkling&desc=Junior%20Frontend%20Developer&descSize=20&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20hyeonbin's%20GitHub&fontSize=35&fontAlignY=30&animation=twinkling&desc=Junior%20Frontend%20Developer&descSize=20&descAlignY=50)
 
-<h3 align=center> 👩🏻‍💻Follow Me </h3><br>
+<h3 align=center> 🌈About Me </h3><br>
 <p align=center>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://velog.io/@hyeonbinnn"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 <br><br>
   
-<h3 align=center> 👩🏻‍💻Tech Stack </h3><br>
+<h3 align=center> 🌈Tech Stack </h3><br>
 <table align="center">
   <tr height="50px">
     <th>Frontend</th>
