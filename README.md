@@ -32,7 +32,7 @@
 <td valign="center" width="26%">
 
 <div align="center">  
-<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
 </div>
 </td>
