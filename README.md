@@ -47,7 +47,7 @@
 <td valign="center" width="15%">
 
 <div align="center">  
-<img src="https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
 </div>
 </td>
 
