@@ -32,7 +32,6 @@
 <img src="https://img.shields.io/badge/Styled--components-DB7093?style=square&logo=styled-components&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
 </div>
 </td>
 
