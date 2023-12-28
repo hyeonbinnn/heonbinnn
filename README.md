@@ -18,7 +18,7 @@
     <th>Frontend</th>
     <th>Backend</th>
     <th>DataBase</th>
-    <th>Design, Tool</th>
+    <th>Co-work & etc</th>
   </tr>
   
 <tr height="120px"><td valign="center" width="40%">
