@@ -54,12 +54,12 @@
 
 <div align="center">  
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=square&logo=Figma&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=square&logo=github&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Notion-000000?style=square&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=square&logo=VisualStudioCode&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=square&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=square&logo=git&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/GitHub-181717?style=square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=square&logo=Notion&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=square&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=square&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=square&logo=VisualStudioCode&logoColor=white"> 
 </div>
 </td>
 
