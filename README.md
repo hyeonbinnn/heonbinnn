@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20Welcome!%20&fontSize=40&fontAlignY=30&animation=twinkling&desc=hyeonbin's%20GitHub&descSize=20&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20Welcome🖐🏻%20&fontSize=40&fontAlignY=35&animation=twinkling&)
 
 <h3 align=center> 🌈Introduce </h3><br>
 <p align=center> <strong>길이 없으면 망치로 뚫고 가는 주니어 프론트엔드 개발자입니다!<br>
