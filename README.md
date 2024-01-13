@@ -62,4 +62,4 @@
 
 </td></tr></table>  
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=👩🏻‍💻&fontAlign=90&fontsize=10&animation=twinkling&)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=👩🏻‍💻&fontAlign=90&fontsize=10&animation=blink&)
