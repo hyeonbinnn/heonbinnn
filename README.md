@@ -16,13 +16,12 @@
 <table align="center">
   <tr height="50px">
     <th>Frontend</th>
-    <th>Backend</th>
     <th>DataBase</th>
     <th>Co-work & etc</th>
   </tr>
   
 <tr height="120px">
-<td valign="center" width="40%">
+<td valign="center" width="55%">
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=square&logo=css3&logoColor=white">
@@ -38,26 +37,18 @@
 
 <td valign="center" width="15%">
 <div align="center">  
-<img src="https://img.shields.io/badge/Node.js-339933?style=square&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=python&logoColor=white">
-</div>
-</td>
-
-<td valign="center" width="15%">
-<div align="center">  
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=squaree&logo=mongodb&logoColor=white">
 </div>
 </td>
 
-<td valign="center" width="50%">
+<td valign="center" width="40%">
 <div align="center">  
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=square&logo=Figma&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=square&logo=git&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/Git-F05032?style=square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=square&logo=Notion&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/Notion-000000?style=square&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=square&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=square&logo=Slack&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=square&logo=VisualStudioCode&logoColor=white">
 </div>
 </td>
 
