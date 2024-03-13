@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=react&logoColor=black"><br>
 <img src="https://img.shields.io/badge/Redux--Toolkit-764ABC?style=square&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=square&logo=recoil&logoColor=white">
-<img src="https://img.shields.io/badge/React Query-FF4154?style=square&logo=react query&logoColor=white"><br>
+<img src="https://img.shields.io/badge/React--Query-FF4154?style=square&logo=react query&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=square&logo=styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=square&logo=tailwindcss&logoColor=white">
 </div>
