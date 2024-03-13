@@ -25,9 +25,9 @@
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=javascript&logoColor=black"><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Redux--Toolkit-764ABC?style=square&logo=Redux&logoColor=white"><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=react&logoColor=black"><br>
+<img src="https://img.shields.io/badge/Redux--Toolkit-764ABC?style=square&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=square&logo=recoil&logoColor=white">
 <img src="https://img.shields.io/badge/React Query-FF4154?style=square&logo=react query&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=square&logo=styled-components&logoColor=white">
