@@ -8,7 +8,8 @@
 
 <h3 align=center> 🌈About Me </h3><br>
 <p align=center>
-  <a href="https://velog.io/@hyeonbinnn"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="https://velog.io/@hyeonbinnn"><img src="https://img.shields.io/badge/Velog-20C997?style=square&logo=velog&logoColor=white"/></a>
+  <a href="https://github.com/hyeonbinnn"><img src="https://img.shields.io/badge/GitHub-181717?style=square&logo=github&logoColor=white"></a>
 
 <br><br>
   
