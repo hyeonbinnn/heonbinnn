@@ -17,42 +17,33 @@
 <table align="center">
   <tr height="50px">
     <th>Frontend</th>
+    <th>Backend</th>
     <th>DataBase</th>
-    <th>Co-work & etc</th>
   </tr>
   
 <tr height="120px">
-<td valign="center" width="55%">
+<td valign="center">
 <div align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=square&logo=Redux&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=square&logo=recoil&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=react&logoColor=black"><br>
-<img src="https://img.shields.io/badge/Redux--Toolkit-764ABC?style=square&logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/Recoil-3578E5?style=square&logo=recoil&logoColor=white">
-<img src="https://img.shields.io/badge/React--Query-FF4154?style=square&logo=react query&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Styled--Components-DB7093?style=square&logo=styled-components&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=square&logo=tailwindcss&logoColor=white">
 </div>
 </td>
 
-<td valign="center" width="15%">
+<td valign="center">
+<div align="center">  
+<img src="https://img.shields.io/badge/Node.js-339933?style=square&logo=nodedotjs&logoColor=white">
+</div>
+</td>
+
+<td valign="center">
 <div align="center">  
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=squaree&logo=mongodb&logoColor=white">
 </div>
 </td>
-
-<td valign="center" width="40%">
-<div align="center">  
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=square&logo=Figma&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=square&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=square&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=square&logo=Slack&logoColor=white">
-</div>
-</td>
-
 </td></tr></table>  
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=👩🏻‍💻&fontAlign=90&fontsize=10&animation=blink&)
