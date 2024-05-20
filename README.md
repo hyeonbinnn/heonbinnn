@@ -4,9 +4,10 @@
 <p align=center> <strong>실패를 두려워하지 않는 프론트엔드 개발자입니다 !<br>
   기능을 만들면서 즐거움을 느끼고, 그 위에 살을 덧붙이면서 성장하는 것을 좋아합니다 👩🏻</strong> 
 
-<p align=center>
+<div align="center">
   <a href="https://velog.io/@hyeonbinnn"><img src="https://img.shields.io/badge/Velog-20C997?style=square&logo=velog&logoColor=white"/></a>
   <a href="https://github.com/hyeonbinnn"><img src="https://img.shields.io/badge/GitHub-181717?style=square&logo=github&logoColor=white"></a>
+</div>
 
 <br><br>
   
