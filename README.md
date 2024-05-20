@@ -11,7 +11,7 @@
 
 <br><br>
   
-<h3 align=center> 🌈Tech Stack </h3><br>
+<h3 align=center> 🌈Tech Stack </h3>
 <table align="center">
   <tr height="50px">
     <th>Frontend</th>
